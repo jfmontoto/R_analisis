@@ -1,0 +1,6 @@
+Este repositorio contiene dos archivos:
+
+ordered_logistic_vbl_tipif.R - código para la estimación de un modelo logit multinomial ordenado
+
+rankhospital.R - función desarrollada para el curso Computing for data analysis ofrecido por la 
+                 universidad Johns Hopkins dentro de la plataforma Coursera. 
